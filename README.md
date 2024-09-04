@@ -1,6 +1,6 @@
 ## Poultry Farm Management System
 
-#How to run the Poultry Farm Management System Project (PFMS)
+# How to run the Poultry Farm Management System Project (PFMS)
 1. Download the zip file
 
 2. Extract the file and copy farm folder
